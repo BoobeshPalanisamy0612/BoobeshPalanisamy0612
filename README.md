@@ -1,91 +1,57 @@
-<h1 data-importer="text" align="left">Hey 👋 Im Boobesh Palanisamy</h1>
+<h1 align="center">Hi 👋, I'm Boobesh Palanisamy</h1>
+<h3 align="center">A passionate developer who loves building things and solving problems</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BoobeshPalanisamy0612&label=Profile%20views&color=0e75b6&style=flat" alt="BoobeshPalanisamy0612" />
+</p>
 
-<p data-importer="text" align="left">🎨Passionate UI/UX Designer crafting clean, human-centered interfaces<br><br>⚛ React.js Developer building fast, scalable web applications</p>
+---
 
-###
+### 🔗 Connect with me
 
-<h2 data-importer="text" align="left">About me</h2>
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
 
-###
+---
 
-<p data-importer="text" align="left">✨ Creating bugs since 2024.<br>📊 Currently deepening my skills in Power BI & data storytelling<br>🧩 I love solving real-world problems through design + code<br>🌱 Always learning — always shipping<br>🎲 Fun fact: I believe great design isn't just about looks—it's about making every interaction feel effortless.</p>
+### 🛠️ Languages and Tools
 
-###
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+</p>
 
-<h2 data-importer="text" align="left">I code with</h2>
+---
 
-###
+### 📊 GitHub Stats & Graphs
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoobeshPalanisamy0612&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoobeshPalanisamy0612&layout=compact&theme=dracula&hide_border=true"/>
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoobeshPalanisamy0612&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/BoobeshPalanisamy0612/BoobeshPalanisamy0612/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/BoobeshPalanisamy0612/BoobeshPalanisamy0612/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoobeshPalanisamy0612&theme=dracula&hide_border=true" alt="Activity Graph" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BoobeshPalanisamy0612&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BoobeshPalanisamy0612/BoobeshPalanisamy0612/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BoobeshPalanisamy0612/BoobeshPalanisamy0612/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BoobeshPalanisamy0612/BoobeshPalanisamy0612/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31vjms7gbb6rf5jvohv6xdypqe3u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vjms7gbb6rf5jvohv6xdypqe3u&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
-###
+<p align="center"><i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
