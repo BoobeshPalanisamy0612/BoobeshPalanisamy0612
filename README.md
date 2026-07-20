@@ -1,111 +1,301 @@
 <div align="center">
 
-<!--
-  ▶ To add your animated hero intro:
-  1. Host hero-animation.html on GitHub Pages or Vercel
-  2. Replace the # below with that live URL
--->
-<a href="#">
-  <img src="https://img.shields.io/badge/▶_View_Live_Intro-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Intro"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=300&section=header" width="100%"/>
+
+<table border="0">
+<tr>
+<td align="center" width="100%">
+
+<h1>Hello, I'm Boobesh Palanisamy 👋</h1>
+
+<img src="https://skillicons.dev/icons?i=figma,react,powerbi" />
+
+<h3>UI/UX Designer&nbsp; • &nbsp;React.js Developer&nbsp; • &nbsp;Power BI Enthusiast</h3>
+
+<i>Designing intuitive experiences.<br/>Building scalable web applications.</i>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/hero-animation.gif" width="90%" alt="Hero animation" />
+
+<br/><br/>
+
+<a href="https://github.com/BoobeshPalanisamy0612">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;React.js+Developer;Frontend+Engineer;Power+BI+Learner;Creating+Beautiful+Digital+Experiences" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Boobesh%20Palanisamy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%26%20Frontend%20Developer%20from%20India&descAlignY=55&descSize=16)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;Learning+Power+BI;Building+delightful+interfaces" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=boobeshpalanisamy0612&label=Profile%20views&color=6C5CE7&style=flat" alt="profile views" />
+<a href="#"><img src="https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/boobesh-p-a5829131b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/BoobeshPalanisamy0612"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:boobeshpalanisamy0612@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/boobesh06/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/918248096268"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </div>
 
----
-
-### 👋 About Me
-
-- 🌱 I'm currently learning **Power BI**
-- 👨‍💻 All of my projects are available at my [**Portfolio**](https://boobeshpalanisamy0612.github.io/Portfolio/)
-- 💬 Ask me about **Figma, React**
-- 📫 Reach me at **boobeshpalanisamy0612@gmail.com**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+<br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=boobeshpalanisamy0612&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="boobeshpalanisamy0612 stats" width="49%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boobeshpalanisamy0612&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="top langs" width="35%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
+<br/>
+
+## 🎨 About Me
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+> 🎨 &nbsp;Passionate **UI/UX Designer** crafting human-centered products
+>
+> ⚛️ &nbsp;**React Developer** building fast, accessible interfaces
+>
+> 📊 &nbsp;Currently deepening my skills in **Power BI**
+>
+> 💡 &nbsp;Love solving real-world problems through design and code
+>
+> 🌱 &nbsp;Always learning — always building
+
+</td>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Tech Stack
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+🎨<br/><b>Design</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+</td>
+<td align="center" width="25%">
+⚛️<br/><b>Frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
+</td>
+<td align="center" width="25%">
+🖥️<br/><b>Backend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</td>
+<td align="center" width="25%">
+🛠️<br/><b>Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</td>
+</tr>
+</table>
+
+<br/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=boobeshpalanisamy0612&theme=radical&hide_border=true" alt="streak stats"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌐 &nbsp;Portfolio Website</h3>
+Modern, responsive portfolio built with React and custom UI/UX design.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-06B6D4?style=flat-square&logo=css3&logoColor=white"/>
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge"/></a> <a href="https://github.com/BoobeshPalanisamy0612"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚗 &nbsp;RentWheels</h3>
+Luxury car rental dashboard with a premium, intuitive interface.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-06B6D4?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge"/></a> <a href="https://github.com/BoobeshPalanisamy0612"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💰 &nbsp;LendTrack</h3>
+Loan tracking application with dashboard, analytics, and repayment insights.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-8B5CF6?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-06B6D4?style=flat-square&logo=express&logoColor=white"/>
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge"/></a> <a href="https://github.com/BoobeshPalanisamy0612"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎭 &nbsp;Emotion Detection AI</h3>
+Face detection and emotion recognition using React and Face API.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Face_API-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-06B6D4?style=flat-square&logo=javascript&logoColor=white"/>
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge"/></a> <a href="https://github.com/BoobeshPalanisamy0612"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<h3>🌦 &nbsp;Weather Prediction UI</h3>
+Modern weather dashboard with real-time API integration and clean visualizations.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Weather_API-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/CSS3-06B6D4?style=flat-square&logo=css3&logoColor=white"/>
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge"/></a> <a href="https://github.com/BoobeshPalanisamy0612"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boobeshpalanisamy0612&theme=redical&hide_border=true" alt="activity graph"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=boobeshpalanisamy0612&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-</a>
+<br/>
+
+## 🔥 GitHub Streak
+
+<table>
+<tr>
+<td width="12%" align="center">
+🔥
+</td>
+<td width="88%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BoobeshPalanisamy0612&theme=tokyonight&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<table>
+<tr>
+<td width="12%" align="center">
+📅
+</td>
+<td width="88%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BoobeshPalanisamy0612&theme=tokyo-night&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
----
+<br/>
 
-### 🌐 Connect with Me
+## 🧭 Developer Journey
 
-<p align="left">
-<a href="https://linkedin.com/in/boobesh-p" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boobesh p" height="30" width="40" />
-</a>
-<a href="https://instagram.com/boobesh06" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boobesh06" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/boobeshpalanisamy" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="boobeshpalanisamy" height="30" width="40" />
-</a>
-<a href="mailto:boobeshpalanisamy0612@gmail.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
-</a>
+<table>
+<tr>
+<td width="12%" align="center" valign="top">🎓<br/><b>2024</b></td>
+<td width="88%" valign="top">
+
+🎓 Graduated in Computer Science
+
+</td>
+</tr>
+<tr>
+<td width="12%" align="center" valign="top">💡<br/><b>2025</b></td>
+<td width="88%" valign="top">
+
+🌐 Built **Portfolio Website**
+🚗 Created **RentWheels**
+💰 Built **LendTrack**
+🎭 Created **Emotion Detection AI**
+
+</td>
+</tr>
+<tr>
+<td width="12%" align="center" valign="top">🚀<br/><b>2026</b></td>
+<td width="88%" valign="top">
+
+📊 Learning **Power BI**
+🧩 Building **UI Systems**
+🌱 Contributing to **Open Source**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
----
+<br/>
 
-### ☕ Support
+## 🎯 Current Focus
 
-<a href="https://ko-fi.com/Boobesh">
-<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="190" alt="Ko-fi"/>
-</a>
+<table width="100%">
+<tr>
+<td align="center" width="25%">📊<br/><b>Learning</b><br/>Power BI</td>
+<td align="center" width="25%">🧱<br/><b>Building</b><br/>React Dashboards</td>
+<td align="center" width="25%">🎨<br/><b>Designing</b><br/>Modern UI Systems</td>
+<td align="center" width="25%">🤖<br/><b>Exploring</b><br/>AI + Frontend Integrations</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/boobesh-p-a5829131b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/BoobeshPalanisamy0612"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:boobeshpalanisamy0612@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/boobesh06/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/918248096268"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <br/><br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Profile Views](https://komarev.com/ghpvc/?username=BoobeshPalanisamy0612&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<div align="center">
+<sub>✨ Designed & Developed by <b>Boobesh Palanisamy</b> ✨</sub>
+<br/>
+<sub>Made with React • Figma • GitHub</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:3B82F6&height=120&section=footer" width="100%"/>
