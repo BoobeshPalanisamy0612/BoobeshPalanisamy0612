@@ -76,13 +76,15 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="./portfoliomodal.png" width="100%" alt="Portfolio Website mockup" /><br/>
       <h4>🌐 Portfolio Website</h4>
       A modern, responsive personal portfolio designed to showcase projects, skills, and design work with a clean, premium UI.
       <br /><br />
       <a href="https://github.com/BoobeshPalanisamy0612/Portfolio">🔗 View Repository</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="./weathermodal.png" width="100%" alt="Weather Prediction mockup" /><br/>
       <h4>🌦️ Weather Prediction</h4>
       A weather forecasting application delivering real-time conditions and predictive insights through an intuitive interface.
       <br /><br />
@@ -90,13 +92,15 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="./lendtrackmodal.png" width="100%" alt="LendTrack mockup" /><br/>
       <h4>💰 LendTrack</h4>
       A finance tracking application to manage, monitor, and visualize lending and borrowing records with clean dashboards.
       <br /><br />
       <a href="https://github.com/BoobeshPalanisamy0612/LendTrack">🔗 View Repository</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="./emotionmodal.png" width="100%" alt="Emotion Detection AI mockup" /><br/>
       <h4>😊 Emotion Detection AI</h4>
       Real-time facial emotion recognition system built with machine learning to detect and classify human emotions from live video/image input.
       <br /><br />
@@ -104,22 +108,24 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="./carrentalmodal.png" width="100%" alt="Car Rental Website mockup" /><br/>
       <h4>🚗 Car Rental Website</h4>
       A full-featured car rental web platform with vehicle listings, booking flow, and an admin-friendly interface.
       <br /><br />
       <a href="https://github.com/BoobeshPalanisamy0612/car-rental-website">🔗 View Repository</a>
     </td>
-    <td width="50%">
-      <h4>📊 Crypto Dashboard</h4>
-      A modern, responsive cryptocurrency dashboard built with React.js and Vite — featuring real-time conversion, trending coin tracking, and global market stats via the CoinGecko API.
+    <td width="50%" valign="top">
+      <img src="./chatbotmodal.png" width="100%" alt="LEO AI Chatbot mockup" /><br/>
+      <h4>🤖 LEO AI Chatbot</h4>
+      A smart AI chatbot assistant delivering natural, instant conversations with a clean, fully responsive chat interface.
       <br /><br />
-      <a href="https://github.com/BoobeshPalanisamy0612/crypto-dashboard">🔗 View Repository</a>
+      <a href="https://github.com/BoobeshPalanisamy0612/Leo-AI">🔗 View Repository</a>
     </td>
   </tr>
 </table>
 
-<!-- 📌 SPACE FOR MORE PROJECTS — copy a <tr><td>...</td></tr> block above and fill in later -->
+<!-- 📌 SPACE FOR MORE PROJECTS — copy a <tr><td>...</td></tr> block above and fill in later. Drop the new screenshot into the assets/ folder and point the <img> src at it. -->
 
 ---
 
